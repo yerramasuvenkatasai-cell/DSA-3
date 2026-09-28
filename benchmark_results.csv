@@ -1,0 +1,10 @@
+category,records,avg_text_len,avg_z_ms,avg_naive_ms,all_correct
+Small,400,543,0.1135,0.0211,true
+Medium,400,55601,0.4488,0.3096,true
+Large,200,351332,2.5690,1.8867,true
+
+worst_case_n,m,z_ms,naive_ms
+20000,1000,0.204,18.562
+40000,2000,0.345,69.400
+80000,4000,0.644,274.413
+160000,8000,1.323,988.265

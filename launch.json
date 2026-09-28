@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run GUI (Main)",
+      "request": "launch",
+      "mainClass": "Main"
+    },
+    {
+      "type": "java",
+      "name": "Run Benchmark",
+      "request": "launch",
+      "mainClass": "Main",
+      "args": "benchmark"
+    }
+  ]
+}
